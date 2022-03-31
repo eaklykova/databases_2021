@@ -1,1 +1,1 @@
-# databases_part1
+# Final projects for the HSE Databases course
